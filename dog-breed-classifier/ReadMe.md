@@ -1,3 +1,6 @@
+# Machine Learning Engineer Nanodegree
+# Deep Learning (Convolutional Neural Networks)
+## Project 5: Write an Algorithm for a Dog Identification App¶
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
