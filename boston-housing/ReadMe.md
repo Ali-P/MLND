@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
+## Project 1: Predicting Boston Housing Prices
 
 ### Install
 
