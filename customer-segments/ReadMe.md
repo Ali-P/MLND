@@ -1,5 +1,6 @@
-# Content: Unsupervised Learning
-## Project: Creating Customer Segments
+# Machine Learning Engineer Nanodegree
+# Unsupervised Learning
+## Project3: Creating Customer Segments
 
 ### Install
 
