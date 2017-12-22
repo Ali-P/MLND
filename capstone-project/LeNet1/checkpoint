@@ -1,2 +1,0 @@
-model_checkpoint_path: "LeNet.ckpnt"
-all_model_checkpoint_paths: "LeNet.ckpnt"
